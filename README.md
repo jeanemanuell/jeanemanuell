@@ -13,7 +13,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UDF**, em Brasília. Co
 
 ## 📌 Projetos em destaque
 
-- [**ordenacao-notas-alunos-c**](https://github.com/jeanemanuell/ordenacao-notas-alunos-c): comparação dos algoritmos Bubble Sort e Quick Sort em C (projeto do semestre)
+- [**ordenacao-notas-alunos-c**]https://github.com/jeanemanuell/Algoritmos-e-Pensamento-Computacional/tree/main/ordena%C3%A7%C3%A3o%20de%20notas : comparação dos algoritmos Bubble Sort e Quick Sort em C (projeto do semestre)
 
 ## 🎯 Metas
 
